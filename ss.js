@@ -11,3 +11,4 @@ console.log(ab/bc)
 // vicky
 let ss=100
 let cc=100
+let mm=200
