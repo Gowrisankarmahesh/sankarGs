@@ -10,3 +10,4 @@ let bc=80
 console.log(ab/bc)
 // vicky
 let ss=100
+let cc=100
