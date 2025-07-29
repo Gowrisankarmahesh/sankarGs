@@ -8,3 +8,5 @@ console.log(a+b);
 let ab=40
 let bc=80
 console.log(ab/bc)
+// vicky
+let ss=100
